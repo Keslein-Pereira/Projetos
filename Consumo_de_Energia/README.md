@@ -15,9 +15,13 @@ Para calcular o custo: consumo mensal × 0,75
 
 MODO DE USAR
 1-Tenha o Python instalado no computador.
+
 2-Abra a pasta do projeto no VS Code.
+
 3-Abra o arquivo app.py.
+
 4-Execute o programa pelo terminal.
+
 5-Digite as informações solicitadas.
 
 Projeto desenvolvido como atividade de estudo no curso de Desenvolvimento de Sistemas.
