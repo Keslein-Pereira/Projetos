@@ -28,7 +28,7 @@ Projeto desenvolvido como atividade de estudo no curso de Desenvolvimento de Sis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-2EA44F?style=for-the-badge)
+![Energia](https://img.shields.io/badge/Energia-Consumo-2EA44F?style=for-the-badge&logo=lightning&logoColor=white)
 Autor
 
 Keslein Pereira
