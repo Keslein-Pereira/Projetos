@@ -14,6 +14,7 @@ O resultado mostra o consumo estimado em kWh/mês.
 Para calcular o custo: consumo mensal × 0,75
 
 MODO DE USAR
+
 1-Tenha o Python instalado no computador.
 
 2-Abra a pasta do projeto no VS Code.
@@ -29,6 +30,8 @@ Projeto desenvolvido como atividade de estudo no curso de Desenvolvimento de Sis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Energia](https://img.shields.io/badge/Energia-Consumo-2EA44F?style=for-the-badge&logo=lightning&logoColor=white)
+
+
 Autor
 
 Keslein Pereira
