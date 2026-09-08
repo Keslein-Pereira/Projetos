@@ -26,10 +26,9 @@ MODO DE USAR
 
 Projeto desenvolvido como atividade de estudo no curso de Desenvolvimento de Sistemas.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
-![Energia](https://img.shields.io/badge/Energia-Consumo-green)
-
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-2EA44F?style=for-the-badge)
 Autor
 
 Keslein Pereira
