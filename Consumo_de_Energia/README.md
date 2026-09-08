@@ -32,6 +32,6 @@ Projeto desenvolvido como atividade de estudo no curso de Desenvolvimento de Sis
 ![Energia](https://img.shields.io/badge/Energia-Consumo-2EA44F?style=for-the-badge&logo=lightning&logoColor=white)
 
 
-Autor
+
 
 Keslein Pereira
